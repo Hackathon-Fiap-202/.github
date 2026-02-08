@@ -100,9 +100,9 @@ O projeto utiliza uma arquitetura orientada a eventos, baseada em microsserviço
 
 ### 🎥 Apresentação
 - Vídeo de até **10 minutos**, apresentando:
-    - Documentação do projeto
-    - Arquitetura escolhida
-    - Demonstração do sistema em funcionamento
+  - Documentação do projeto
+  - Arquitetura escolhida
+  - Demonstração do sistema em funcionamento
 
 ---
 
