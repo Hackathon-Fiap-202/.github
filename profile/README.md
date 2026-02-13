@@ -23,6 +23,10 @@ O fluxo principal consiste em:
 
 ---
 
+## Arquitetura do Projeto
+
+![Arquitetura](https://res.cloudinary.com/dqvkg85dl/image/upload/v1771021155/arquitetura_njp3uo.gif)
+
 ## Principais Funcionalidades
 
 - **Processamento Paralelo de Vídeos**  
