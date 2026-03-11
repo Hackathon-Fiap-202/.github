@@ -59,7 +59,7 @@ O projeto utiliza uma arquitetura orientada a eventos, baseada em microsserviço
 - **API Gateway** – Exposição segura das APIs
 - **Amazon Cognito** – Autenticação e gerenciamento de usuários
 - **Amazon SQS** – Mensageria e processamento assíncrono
-- **Amazon EKS** – Orquestração de containers
+- **Amazon ECS Fargate** – Orquestração de containers
 - **Amazon SES** – Envio de notificações por e-mail
 - **IAM** – Gerenciamento de permissões e segurança
 
